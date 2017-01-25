@@ -1,6 +1,6 @@
 # Google Appscripts with Exotel
 
-Here’s a list of use-casesthat can be deployed using Exotel and Google Sheets
+Here’s a list of use-cases that can be deployed using Exotel and Google Sheets
 * Missed call
 * Capture DTMF codes entered by the user and store them against the customer’snumber
 * Customer feedback (where customer has to give a rating between 1 to 10)
